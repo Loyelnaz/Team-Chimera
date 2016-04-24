@@ -2,14 +2,17 @@
 font-family: 'Montserrat';
 font-size: 18px;
 }
+
 .team-member p {
 font-size: 14px;
 color: #AAA;
 }
+
 #team .section-heading {
     font-family: 'Montserrat';
 font-size: 28px;
 }
+
 #preloader {
     background: #FFF;
     bottom: 0;
@@ -107,7 +110,7 @@ aside {
 
 .navbar-default {
     border-color: rgba(34,34,34,.05);
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
     background-color: #fff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
