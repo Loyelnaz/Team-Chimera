@@ -1,5 +1,5 @@
 .team-member h3, h2{
-font-family: 'Droid Serif';
+font-family: 'Montserrat';
 font-size: 18px;
 }
 .team-member p {
@@ -7,7 +7,7 @@ font-size: 14px;
 color: #AAA;
 }
 #team .section-heading {
-    font-family: 'Droid Serif';
+    font-family: 'Montserrat';
 font-size: 28px;
 }
 #preloader {
@@ -39,7 +39,7 @@ body {
 }
 
 body {
-    font-family: "Roboto Slab",Merriweather, "Helvetica Neue", 'Myriad', Arial,sans-serif;
+    font-family: 'Montserrat', Arial,sans-serif;
 }
 
 hr {
@@ -71,7 +71,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Montserrat',Arial,sans-serif;
 }
 
 p {
@@ -435,7 +435,7 @@ fieldset[disabled] .btn-default.active {
 .open > .dropdown-toggle.btn-primary {
     border-color: #ed431f;
     color: #fff;
-    background-color: #ee4b28; 
+    background-color: #ee4b28;
 }
 
 .btn-primary:active,
@@ -515,4 +515,3 @@ body {
     width: 180px;
     height: 180px;
 }
-
